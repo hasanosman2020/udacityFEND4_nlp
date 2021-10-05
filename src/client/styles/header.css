@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    padding: 10px 40px;
+    background: #e8e8e8;
+}
+
+h2 {
+    font-size: 34px;
+    color: #102b3f;
+}
+
+h3 {
+    font-size: 25px;
+    color: #102b3f;
+    margin-top: 10px;
+}
